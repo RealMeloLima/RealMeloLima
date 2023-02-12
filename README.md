@@ -2,7 +2,7 @@
 
 ## Contact me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulorog/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@298540771462610944)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Melo%20Lima#2606)
 
 ![Paulo Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMeloLima&show_icons=true&theme=dracula)
 
