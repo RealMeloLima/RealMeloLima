@@ -1,4 +1,4 @@
-# Hi there, you can call me Paulo, I'm 18 years old and currently living in Brazil studying IT 🖥️
+# Hi there, you can call me Paulo, I'm 18 years old and currently living in Brazil 🖥️
 
 ## Contact me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulorog/)
