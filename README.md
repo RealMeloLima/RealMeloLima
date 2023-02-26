@@ -8,6 +8,8 @@
 
 ## Programming Languages
 ![Python](https://skillicons.dev/icons?i=py)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ## Tools and Frameworks
 ![vscode](https://skillicons.dev/icons?i=vscode)
