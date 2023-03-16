@@ -6,7 +6,7 @@
 
 ![Paulo Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMeloLima&show_icons=true&theme=dracula)
 
-## Programming Languages and developer skills
+## Programming Languages and Developer skills
 ![Python](https://skillicons.dev/icons?i=py)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
